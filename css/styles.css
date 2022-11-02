@@ -1,0 +1,28 @@
+.title-image{
+radius: 50%;
+width: 50%;
+}
+
+
+.middle-pic{
+  border-radius: 100%;
+  width: 150px;
+}
+
+.last-pic{
+  border-radius: 20%;
+width: 150px;
+}
+
+#title{
+  padding: 5% 5%;
+}
+
+#feature{
+  text-align: center;
+  margin: 20px 10px;
+}
+
+.fa-brands{
+  margin: 20px 10px;
+}
